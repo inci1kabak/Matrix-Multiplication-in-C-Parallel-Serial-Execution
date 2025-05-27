@@ -1,4 +1,4 @@
-## Parallel Matrix Multiplication with OpenMP and Performance Comparison
+## Parallel Matrix Multiplication with OpenMP and Performance Comparison :
 
 This project demonstrates matrix multiplication in C using both parallel and serial approaches. The matrices are read from external files (`matrix_a.txt` and `matrix_b.txt`), and the multiplication results are written to an output file (`sonuclar.txt`). The primary goals of this project are to:  
 
