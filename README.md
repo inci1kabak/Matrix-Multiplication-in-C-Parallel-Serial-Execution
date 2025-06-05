@@ -7,7 +7,7 @@ This project demonstrates matrix multiplication in C using both parallel and ser
 - Handle dynamic matrix sizes as specified in the input files.  
 - Ensure efficient handling of large matrices.
 
-### How It Works
+### How It Works :
 
 1. **Input Files**:  
    - `matrix_a.txt` and `matrix_b.txt` contain the matrices to be multiplied.  
